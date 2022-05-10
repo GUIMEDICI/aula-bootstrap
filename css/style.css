@@ -1,3 +1,36 @@
 .navbar {
     background-color: #dbc3c3;
+    border: 1px solid black;
+}
+
+.margin {
+    padding: 40px;
+    background-color: #f6f5ea;
+}
+
+.projetos {
+    background-color: #c8c8bf;
+    padding-top: 40px;
+    
+}
+
+.quem-somos {
+    background-color: #fbfff2;
+    padding-top: 40px;
+}
+
+p {
+    text-align: justify;
+    width: 700px;
+}
+
+.text-container {
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    text-decoration: none;
+    color: black;
 }
